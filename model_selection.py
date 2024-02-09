@@ -1,3 +1,6 @@
+# quickest
+https://github.com/shankarpandala/lazypredict
+
 # REGRESSION
 
 from sklearn.linear_model import Ridge, Lasso, ElasticNet
